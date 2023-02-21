@@ -1,0 +1,13 @@
+total 44
+drwxrwxr-x  4 jonas jonas 4096 fev 21 20:49 .
+drwxrwxr-x 60 jonas jonas 4096 fev 21 20:04 ..
+drwxrwxr-x  8 jonas jonas 4096 fev 21 20:48 .git
+-rw-rw-r--  1 jonas jonas  415 fev 21 19:59 lista2.txt
+-rw-rw-r--  1 jonas jonas  482 fev 21 20:09 lista3.branch-tmp3.txt
+-rw-rw-r--  1 jonas jonas  477 fev 21 20:05 lista4.master.txt
+-rw-rw-r--  1 jonas jonas  549 fev 21 20:35 lista5.branch-tmp3.txt
+-rw-rw-r--  1 jonas jonas    0 fev 21 20:49 lista6.master.txt
+-rw-rw-r--  1 jonas jonas  987 fev 21 20:48 lista.txt
+-rw-rw-r--  1 jonas jonas   82 fev 21 19:31 README.md
+-rw-rw-r--  1 jonas jonas    1 fev 21 19:31 teste
+drwxrwxr-x  2 jonas jonas 4096 fev 21 19:31 teste2
