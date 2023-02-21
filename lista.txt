@@ -20,3 +20,5 @@ drwxrwxr-x  8 jonas jonas 4096 fev 21 20:35 .git
 drwxrwxr-x  2 jonas jonas 4096 fev 21 19:31 teste2
 
 Editando aqui!
+Adicionei algo novo aqui no master.
+
