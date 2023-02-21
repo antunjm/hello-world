@@ -6,3 +6,5 @@ drwxrwxr-x  8 jonas jonas 4096 fev 21 19:31 .git
 -rw-rw-r--  1 jonas jonas   82 fev 21 19:31 README.md
 -rw-rw-r--  1 jonas jonas    1 fev 21 19:31 teste
 drwxrwxr-x  2 jonas jonas 4096 fev 21 19:31 teste2
+
+Editando aqui!
