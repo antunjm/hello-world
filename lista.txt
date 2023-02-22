@@ -21,4 +21,4 @@ drwxrwxr-x  2 jonas jonas 4096 fev 21 19:31 teste2
 
 Editando aqui!
 Adicionei algo novo aqui no master.
-
+Alterei de novo no master (após criado o branch tmp6).
